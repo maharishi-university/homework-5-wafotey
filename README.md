@@ -8,6 +8,7 @@
   {name: "Peter", id: "01"},
   {name: "Michael", id: "02"},
   {name: "Ann", id: "03"},
+  {name: "Williams" id: "04"}
 ]
 ```
 * Test the function inside AWS Lambda Console.
